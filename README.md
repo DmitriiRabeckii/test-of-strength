@@ -32,3 +32,9 @@ After a while, he falls into jail, and that's it!
 That's it, I stop attacking and...
 
 ![countries](https://github.com/DmitriiRabeckii/test-of-strength/blob/main/13.png)
+
+As a result, only 2 servers were enough to send another validator to jail!
+
+![countries](https://github.com/DmitriiRabeckii/test-of-strength/blob/main/14.png)
+![countries](https://github.com/DmitriiRabeckii/test-of-strength/blob/main/15.png)
+![countries](https://github.com/DmitriiRabeckii/test-of-strength/blob/main/16.png)
